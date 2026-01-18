@@ -1,4 +1,6 @@
-# python is case sensitive language
+# python is case sensitive language,high level lang
+# A high-level language is human-readable and abstracts hardware details.
+# A low-level language is close to hardware and provides direct memory control.
 
 print("hello world")
 print('hello world')
@@ -21,3 +23,7 @@ print("hello",end="+++")
 print("world")
 
 print(print.__doc__)   # docstring
+
+
+print("hello"+"world")
+print("hello","world")

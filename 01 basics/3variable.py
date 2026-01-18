@@ -7,6 +7,7 @@
 # variable can start with letter and underscore
 _= "harsh"
 print(_)
+# first-name is wrong variable name
 
 # naming conventions
 # use snakecase and for constants use UPPERCASE
