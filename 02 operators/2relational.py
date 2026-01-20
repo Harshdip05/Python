@@ -19,3 +19,8 @@ if a == 4:
     print("true")
 else:
     print("false")    
+
+
+print()
+
+print('A' < 'B')  # compare by ASCII values
