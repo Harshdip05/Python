@@ -33,3 +33,6 @@ b = user3 % 10
 user3 = user3 // 10
 c = user3 % 10
 print("sum is: ",a+b+c)
+
+
+# we will do it by loop
