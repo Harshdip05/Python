@@ -2,7 +2,7 @@
 
 print(11 + 4)
 print(11 - 4)
-print(11 / 4)
+print(11 / 4)   # answer is always float
 print(11 * 4)
 print(11 % 4)    #modulus
 print(11 // 4)   #quotient=floor division
