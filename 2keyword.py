@@ -6,6 +6,7 @@
 import keyword
 
 print(keyword.kwlist)
+print(len(keyword.kwlist))
 
 
 keyword.iskeyword("for")     # True
