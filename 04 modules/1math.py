@@ -3,6 +3,9 @@
         # functions
         # variables
 
+print(help('modules'))
+# print(len(help('modules')))
+
 import math
 # math.
 
