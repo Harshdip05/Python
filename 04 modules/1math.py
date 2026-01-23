@@ -20,3 +20,4 @@ print(math.degrees(math.pi))
 print(math.factorial(5))
 print(math.exp(1))   # e^1
 print(math.sqrt(16))
+print(math.gcd(24,36))
