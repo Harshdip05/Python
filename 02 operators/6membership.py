@@ -18,6 +18,7 @@ print(1 in d)     #  # Is 1 a KEY in dictionary?
 
 print(1 in d.values())
 print(("a", 1) in d.items())
+print(d.items())
 
 print()
 
