@@ -26,3 +26,6 @@ print(s[-8:-1])
 
 print(s[0:100])
 # print(s[100])  # IndexError: string index out of range
+
+
+print(s[-1:-5:2])
