@@ -1,5 +1,6 @@
 # String Functions
 
+# len() counts the number of characters, including spaces and symbols.
 # len() returns the number of items in an object.
 # len(obj)
 
@@ -25,3 +26,4 @@ so len("python") == number of elements
 
 # why is len() fast ?
 # Time complexity O(1) and not O(n)
+# len() runs in O(1) time for strings in Python
